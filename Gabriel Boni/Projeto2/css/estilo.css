@@ -1,0 +1,29 @@
+body {
+    /* abrindo body */
+    background-color: #060247;
+    color: #ffee00;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+
+/* fechando body */
+
+/* criando uma classe exemplo usando o ponto*/
+.titulo {
+    font-size: 27px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #f0ffff;
+}
+
+.sexta {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(0, 255, 13);
+    size: 40fx;
+}
+
+.madrugada{
+text-align: center;
+font-size: 30px;
+background-color: rgb(1, 22, 15);
+
+}
